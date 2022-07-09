@@ -6,5 +6,5 @@
 ## Проекты
 | Проект | Библиотеки | Описание | Ссылка |
 | :-- | :-- | :-- | :-- |
-| Исследование сервиса Яндекс.Музыка | pandas, requests, itertools | Сравнение поведенческих данных и жанровых предпочтений пользователей Москвы и Санкт-Петербурга | [Открыть в nbviewer](https://nbviewer.org/github/liveworkdie/study-projects/blob/main/01-yandex-music.ipynb)|
+| Исследование данных сервиса Яндекс.Музыка | pandas, requests, itertools | Сравнение поведенческих данных и жанровых предпочтений пользователей Москвы и Санкт-Петербурга | [Открыть в nbviewer](https://nbviewer.org/github/liveworkdie/study-projects/blob/main/01-yandex-music.ipynb)|
 
